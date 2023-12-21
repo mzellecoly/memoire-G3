@@ -1,0 +1,13 @@
+nav{
+    position: fixed;
+    z-index: 1;
+}
+.headerfirst{
+    /* width: 100%; */
+    background-color: white;
+    box-shadow: 10px 3px 5px #146956;
+    font-weight: bold;
+}
+.element{
+    color: #146956 !important;
+}
